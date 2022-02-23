@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certain reasons (by way of reply to some objections generally urged and in more particular to a paper styled the case of John Gifford gentleman, presented to the members of Parlaiment) rendered by the preservators of the said Forrest of Deane.</title>
+            <author>Preservators of the Said Forest of Dean.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31520</idno>
+            <idno type="STC">Wing C1749</idno>
+            <idno type="STC">ESTC R23922</idno>
+            <idno type="EEBO-CITATION">07922608</idno>
+            <idno type="OCLC">ocm 07922608</idno>
+            <idno type="VID">40479</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31520)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40479)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1201:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certain reasons (by way of reply to some objections generally urged and in more particular to a paper styled the case of John Gifford gentleman, presented to the members of Parlaiment) rendered by the preservators of the said Forrest of Deane.</title>
+                  <author>Preservators of the Said Forest of Dean.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1650?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: Jo. Berrow, Jo. Wade, John Adeane, Henry Rudge, preservators of the said forrest.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Royal forests --  England.</term>
+               <term>Dean, Forest of (England)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb n="1" facs="tcp:40479:1" rendition="simple:additions"/>
+            <head>Certaine reaſons (by way of reply to ſome Objections generally ur<g ref="char:EOLhyphen"/>ged and in more particular to a paper ſtyled the caſe of JOHN GIFFORD Gen<g ref="char:EOLhyphen"/>tleman, preſented to the Members of Parli<g ref="char:EOLhyphen"/>ament) why thoſe Iron-works in the For<g ref="char:EOLhyphen"/>reſt of <hi>Deane</hi> ſhould be in honour and juſtice of the Houſe, ſpeedily demoliſht, tendered by the preſervators of the ſaid Forreſt of <hi>Deane.</hi>
+            </head>
+            <p n="1">1.<seg rend="decorInit">I</seg>T is very remarkeable that this Parliament in the firſt Remonſtrance of the grie<g ref="char:EOLhyphen"/>vances of this Nation, <hi>Dec.</hi> 15. 1641. amongſt many others, did inſiſt upon this with much reſentment that there was a ge<g ref="char:EOLhyphen"/>nerall deſtruction of the Kings timber, eſpe<g ref="char:EOLhyphen"/>cially that of the Forreſt of <hi>Deane,</hi> ſold to Papiſts, which they then declared to be the beſt Storehouſe in this Kingdome for the maintenance of Shipping. Now after nine
+<pb n="1" facs="tcp:40479:2"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:40479:3"/>years ſitting, when it pleaſeth God to divolve the Power and remedy thereof into their own hands, and after much conteſt and ſerious de<g ref="char:EOLhyphen"/>bate, upon contrary objections, Petitions and overtures tendered to them, did ſo poſitively vote, that the Iron-works within the Forreſt of <hi>Deane</hi> ſhould be demoliſht, to keepe them ſtanding by another vote, will ſeeme ſtrange to them who with infinite ſatisfaction and content peruſed and ſerved them in the votes of the 1. of <hi>Jan.</hi> laſt paſt.</p>
+            <p n="2">2. It will be conſtrued (with all ſubmiſſion nevertheleſſe to better judgements) an act of very great injuſtice, that when other works which were built upon the inheritance of private Gentlemen, and none of them (Bi<g ref="char:EOLhyphen"/>ſhops-wood furnace only excepted) compa<g ref="char:EOLhyphen"/>rably ſo conſumptive to the Forreſt timber, that they ſhould be demoliſhed, and thoſe which were the works of the King &amp; Sir <hi>John Winter</hi> (built upon the Forreſt ground and without all contradiction originally intended by the votes aforementioned) kept ſtanding only, when nothing of reaſon, but pretences and allegations are offer'd to the Parliament
+<pb n="3" facs="tcp:40479:3"/>and Committee of Revenue, as in the ſcan<g ref="char:EOLhyphen"/>ing of Captaine <hi>Giffords</hi> Paper will bee ſhewed.</p>
+            <p n="3">3. This worke hath been (by our Progeni<g ref="char:EOLhyphen"/>tors, who were men of publique ſpirits) in<g ref="char:EOLhyphen"/>tended and drove on for theſe 50. years and upwards, and in the Queens and the two laſt Kings reigne ſeverall hopes and overtures were granted, but by the potency of the Court faction, or ſome eminent intereſt of private perſons) always croſt. But now (ha<g ref="char:EOLhyphen"/>ving order for the poſitive demolition, and the worke being in ſo good a forwardnes of perfection) to grant new orders for the con<g ref="char:EOLhyphen"/>tinuance thereof, will utterly and for ever daſh the hopes, and hearty reſolutions of thouſands who have been as zealous for, and, proportionably to their eſtates, greater ſuffe<g ref="char:EOLhyphen"/>rers for the Parliament then Captain <hi>Gif<g ref="char:EOLhyphen"/>ford.</hi>
+            </p>
+            <p n="4">4. It is viſible that what the Parliament hath done or ſhal in altering their reſolutions is in a charitable gratification to the inſinu<g ref="char:EOLhyphen"/>ations of a private man; now if it ſhall bee made appeare that they are pretenſions rather
+<pb n="4" facs="tcp:40479:4"/>then reall truths, it is humbly deſired they may be examined, before a report of that na<g ref="char:EOLhyphen"/>ture be made, or the judgement of the Houſe abuſed in procurement of a contrary order; yet whether it may be ſaid to be charitable or honourable, to gratify the deſires of one man for his profit or gaine to the apparent loſſe of the State, and diſadvantage of ſo well de<g ref="char:EOLhyphen"/>ſerving a People, is humbly ſubmitted.</p>
+            <p n="5">5. The Votes of the firſt of <hi>Jan.</hi> laſt paſt will be rendred of no conſequence; for where<g ref="char:EOLhyphen"/>as other works already demoliſht are diſpu<g ref="char:EOLhyphen"/>table whether or no they are comprehended within the order; for theſe alone to ſtand, which are (paſt diſpute) clearly meant, will ſo much make for the Ironmaſters, that it will be conſtrued, they now muſt be kept up by order of the Houſe, But his reaſons in his Paper being truly anſwered, we hope all que<g ref="char:EOLhyphen"/>ſtion of this matter will be laid aſide.</p>
+            <div type="reasons">
+               <pb n="3" facs="tcp:40479:4"/>
+               <head>The Paper holds forth to conſideration ſeverall rea<g ref="char:EOLhyphen"/>ſons conteined in theſe particulars.</head>
+               <p n="1">1. FIrſt he acknowledgeth that in all his contracts, timber was excepted, and the greater part of what he hath coald was timber, as is proved by the Commiſſion returned in the Exchequer, whereby he hath utterly made void the Contract; and what hopes the ſtate may have of his future dealing, is left to judgement.</p>
+               <p n="2">2. He ſaid he hath two thouſand pounds worth of Coale made of the Forreſt wood; it is humbly en<g ref="char:EOLhyphen"/>treated that may be made appeare as well as ſaid; It will be proved that this is a notable colluſion, for while he ſeemingly begs of the Parliament in hu<g ref="char:EOLhyphen"/>millity, he ſeemingly begs of the Parliament in hu<g ref="char:EOLhyphen"/>millity, he brags in the Country of his policy, ma<g ref="char:EOLhyphen"/>king daily contracts for more Coale and wood of private men, while he keeps his ſmall remainder of the Forreſt ſtock unſpent, becauſe he will have ſome<g ref="char:EOLhyphen"/>thing to ſay for himſelfe, to make his cauſe ſeeme reaſonable.</p>
+               <p n="3">3. Whereas 'tis alleaged his ſtock of five thouſand pound will become wholy uſeleſſe; there is a two fold anſwer, firſt he hath no ſuch ſtock of the ſtate, and therefore they are no way obliged to ſuffer loſſe for another mans bargains, ſecondly the aſſertion is untrue, for he may have mony for his Wood, Coale or ſow-Iron to make him a ſaver, and for his Oare and Cynders he may have the ſame vent for them which the Myners themſelves have, either by water or the works, of neighbours who uſually doe and will buy them.</p>
+               <pb n="6" facs="tcp:40479:5"/>
+               <p n="4">4. He ſeemes to take care that thoſe workes (which have beene proved by long experience, to the Houſe, to be the ruin of ſhipping) ſhall continnue after the ſtock ſpent, whereby it muſt follow that either, the Informations by Commiſſion or otherwiſe given to the Parliament have been falſe, or elſe the Votes of the Houſe were ſo ill grounded that they muſt, for his ſake, admit of a contradiction, and for the prizes of Forraigne iron, there are thoſe who will under<g ref="char:EOLhyphen"/>take to ſerve this Nation with as good and as cheape iron as now they have, without conſumption of their owne Timber.</p>
+               <p n="5">5, For his giving ſecurity, that is found to be of no value, for when the Contracts have alwaies run that timber ſhould be excepted, yet the goodlieſt Trees in <hi>Europe</hi> have fallen to make Coale, and when complaint hath beene made, tis a fallacy very uſuall to anſwer, you muſt prove who cut them, and we do confidently averre, that as long as the workes ſtand, thoſe poor Families he ſeemes to pitty (though they are the moſt invenomed and bitter enemies to the Parliament, witnes the ſeverall recruits of Sir <hi>Jo. Winters</hi> Garriſons) will deſtroy the timber, which he knowes to be true, even while we were acting in the Commiſſion, and if the Cauſe be not taken a<g ref="char:EOLhyphen"/>way, tis improbable the effect ſhould ceaſe: and who ſhall the State ſue when they cannot proove who cut downe their timber.</p>
+               <p n="6">6, But for the ſadnes of his condition, and his and his friends being ruined, and made priſoners, we ſay that this is a meere pretence, it will be proved by as
+<pb n="7" facs="tcp:40479:5"/>able men as Mr. <hi>Gifford,</hi> that he hath gained many a thouſand pound within theſe few years, and how he ſhould for the future be a loſer, when he may be made a ſaver by his pretended ſtock, would be inquired, and it is humbly and earneſtly intreated, that the truth of this may be lookt into, and thoſe who ſtand barely for the good of the State may be heard herein, as well as hee who ſoly intends his own profit, and in this particular doth providently account that to be his loſſe, which he might by this means gain, though to the dammage and diſhonour of the State.</p>
+               <p n="7">7. And to joyne iſſue with him, it is humbly re<g ref="char:EOLhyphen"/>ferred to every individuall Member of the Houſe, what the progreſſe of theſe inſinuations may effect; For firſt it is humbly intreated and granted, that the works may ſtand till <hi>March</hi> 25. next for a yeare, and then for ever, as is hinted in his Paper, and then every thing return to its old and wonted way of deſtruction. The wiſe Spaniard that knew before 88. that there was not ſo goodly a plot of ſhipping timber in the known world, would a little admire at the policie of this Nation, to ſee it now almoſt deſtroyed upon no other account then the enriching of a few papiſts and private men, who by their power and pretences have alwayes been able to produce reaſons to deſtroy that Country; the conſequence and nature whereof was ſo much heretofore envied by the Mortall ene<g ref="char:EOLhyphen"/>mies of this Nation.</p>
+               <p n="8">8 That Mr. <hi>Gifford</hi> might loſe three thouſand pounds at <hi>Cyrenceſter</hi> would be controverted, though not denyed, but if he hath gained 6. thouſand in the
+<pb n="8" facs="tcp:40479:6"/>Forreſt, we believe he is not ſo much to be pittyed as thoſe who having loſt an hundred thouſand in thoſe parts, did never receive that pay which he and his ſon hath, and yet their loſſes are ſo far from being audi<g ref="char:EOLhyphen"/>ted or ſtated, that they are out of all hopes of repara<g ref="char:EOLhyphen"/>tion, though their hearty affections to the Parliament were as eminent as his. Neither is it a good argument of his affection to them, to inſiſt ſo urgently upon the ſtanding of thoſe works, which his private judge<g ref="char:EOLhyphen"/>ment muſt needs informe him, is ſo much inconſi<g ref="char:EOLhyphen"/>ſtent with their profit or honour.</p>
+               <closer>All which we moſt humbly ſubmit to the Houſe, and every Member thereof, praying to God that they may ſo providently weigh and mannage this buſineſſe as may be for their own ſafety, and the advantage of this Common-wealth.
+<signed>Jo. Berrow, Jo. Wade, John Adeane, Hen<g ref="char:EOLhyphen"/>ry Rudge, <hi>Preſervators of the ſaid Forreſt.</hi>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
